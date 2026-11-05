@@ -1,0 +1,6 @@
+opendrift
+icechunk
+xarray
+zarr
+pandas
+numpy
